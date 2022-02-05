@@ -1,0 +1,19 @@
+{
+    "name": "jakub-the-developer/markdown-blog-example",
+    "description": "Example usage of the markdown blog",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JakubTheDeveloper",
+            "email": "jakub.krysakowski@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/jakubthedeveloper/SimpleMarkdownBlog.git" }
+    ],
+    "require": {
+        "jakub-the-developer/markdown-blog": "dev-main"
+    }
+}
