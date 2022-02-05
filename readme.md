@@ -2,17 +2,18 @@
 
 This repository contains an example implementation of the markdown blog created using library [https://github.com/jakubthedeveloper/SimpleMarkdownBlog](https://github.com/jakubthedeveloper/SimpleMarkdownBlog)
 
-## Usage
-
-### Requirements
+## Requirements
 - PHP >= 8.1
 - Composer
 
-### Install
+## Install
 
 ```
 composer install
 ```
+
+
+## Usage
 
 ### Templates
 
