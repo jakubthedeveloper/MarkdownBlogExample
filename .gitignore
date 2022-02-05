@@ -1,0 +1,5 @@
+public/*.html
+public/css/*.css
+composer.lock
+.idea
+vendor
