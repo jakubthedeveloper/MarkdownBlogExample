@@ -19,10 +19,6 @@ dl, ol, p, pre, table, ul {
     margin-bottom: 1em
 }
 
-ul {
-    margin-left: 20px
-}
-
 a {
     text-decoration: none;
     cursor: pointer;
@@ -164,7 +160,24 @@ td, th {
     text-align: left
 }
 
+.header {
+    padding-top: 1rem;
+    padding-bottom: 0.8rem;
+    font-size: 1.4rem;
+}
+
 .footer {
     text-align: center;
     font-size: 0.8rem;
+}
+
+.content {
+    width: 100%;
+    float: left;
+}
+
+ul.pages-list {
+    list-style-type: none;
+    list-style-position: inside;
+    padding-left: 0;
 }

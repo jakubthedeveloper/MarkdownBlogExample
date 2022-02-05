@@ -1,9 +1,6 @@
-# Simple Markdown Blog
+# What is this?
 
-## Installation
+This page is an example of the Simple Markdown Blog [https://github.com/jakubthedeveloper/SimpleMarkdownBlog](https://github.com/jakubthedeveloper/SimpleMarkdownBlog)
 
-For the installation instructions see Readme file.
-
-## Repository
-
-[TODO](https://to.do)
+# Lorem ipsum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis neque lobortis, aliquam arcu sit amet, aliquet magna. Curabitur quis lorem eget felis lobortis tincidunt nec at ipsum.

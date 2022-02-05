@@ -11,3 +11,8 @@ pages:
     markdown_file: about.md
     output_file: about.html
     template_file: single.html
+  source code:
+    title: Source Code
+    markdown_file: source_code.md
+    output_file: source_code.html
+    template_file: single.html

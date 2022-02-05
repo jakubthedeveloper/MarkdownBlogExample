@@ -1,3 +1,4 @@
 blog:
   title: My markdown blog
   footer_text: "&copy; Copyright allright"
+  short_pages_list_items_count: 10
