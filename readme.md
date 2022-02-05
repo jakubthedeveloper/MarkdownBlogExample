@@ -6,6 +6,10 @@ This repository contains an example implementation of the markdown blog created 
 - PHP >= 8.1
 - Composer
 
+## Demo
+
+You can see the demo of this project on the website [http://markdown-blog-preview.irok84.kei.pl/](http://markdown-blog-preview.irok84.kei.pl/)
+
 ## Install
 
 ```
