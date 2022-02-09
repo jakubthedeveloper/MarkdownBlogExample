@@ -1,4 +1,5 @@
 blog:
   title: My markdown blog
+  base_url: "https://blog.test"
   footer_text: "&copy; Copyright allright"
   short_pages_list_items_count: 10

@@ -28,6 +28,10 @@ Tags you can use in templates:
 - `__BLOG_TITLE__`
 - `__PAGES_LIST__`
 - `__PAGE_CONTENT__`
+- `__TITLE__`
+- `__DESCRIPTION__`
+- `__IMAGE__`
+- `__PAGE_TYPE__` # see [http://ogp.me/#types](http://ogp.me/#types)
 
 ### Pages
 

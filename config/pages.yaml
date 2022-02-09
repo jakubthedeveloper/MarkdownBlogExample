@@ -6,11 +6,13 @@ pages:
     template_file: index.html
     description: My Blog start page
     image: example.png
+    type: website
   about:
     title: About
     markdown_file: about.md
     output_file: about.html
     template_file: single.html
+    type: article
   source code:
     title: Source Code
     markdown_file: source_code.md
