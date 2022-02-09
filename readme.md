@@ -32,6 +32,7 @@ Tags you can use in templates:
 - `__DESCRIPTION__`
 - `__IMAGE__`
 - `__PAGE_TYPE__` # see [http://ogp.me/#types](http://ogp.me/#types)
+- `__PAGE_URL__`
 
 ### Pages
 
