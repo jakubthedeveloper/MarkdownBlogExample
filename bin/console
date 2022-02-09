@@ -19,5 +19,9 @@ $application->add(
     $containerBuilder->get('command.generate-pages')
 );
 
+$application->add(
+    $containerBuilder->get('command.generate-sitemap')
+);
+
 // Run it
 $application->run();

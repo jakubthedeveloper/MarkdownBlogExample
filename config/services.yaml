@@ -31,6 +31,12 @@ services:
     class: \MarkdownBlog\Generator\PagesListGenerator
     arguments:
       $pagesConfig: '@pages_config'
+  sitemap_generator:
+    class: \MarkdownBlog\Generator\SitemapGenerator
+    arguments:
+      $blogConfig: '@blog_config'
+      $pagesConfig: '@pages_config'
+      $outputDir: 'public/'
   html_page_generator:
     class: \MarkdownBlog\Generator\HtmlPageGenerator
     arguments:
@@ -50,3 +56,7 @@ services:
       $publicDir: 'public/'
       $pagesConfig: '@pages_config'
       $pageGenerator: '@html_page_generator'
+  command.generate-sitemap:
+    class: \MarkdownBlog\Console\GenerateSitemap
+    arguments:
+      $sitemapGenerator: '@sitemap_generator'

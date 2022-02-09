@@ -1,5 +1,7 @@
 public/*.html
 public/css/*.css
+public/sitemap*
+public/robots.txt
 composer.lock
 .idea
 vendor
